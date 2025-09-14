@@ -3,3 +3,5 @@ langgraph
 langchain-google-genai
 langchain-community
 duckduckgo-search
+beautifulsoup4
+lxml
